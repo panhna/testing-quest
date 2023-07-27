@@ -1,5 +1,4 @@
 ### 📣 Where to start
-Write test for custom hook inside this folder `/src/app/hooks/__tests__/`
 
 #### 🚦 Instruction
 
@@ -34,10 +33,8 @@ Make sure you already install `JEST` extension. So you can `right-click` on **fi
 ----
 ### 💡 What you learn
 - Testing Custom Hook
-  - Basic Exercise
 - Testing Custom Hook + Timer Mock
-  - Basic Exercise
-  - Advance Exercise
+- Integration Test
 
 ###
 ----
