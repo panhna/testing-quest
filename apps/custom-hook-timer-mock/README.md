@@ -19,6 +19,8 @@
 - Using NX
 ```sh
 # Running test the whole exercise with nx
+$ nx test custom-hook-timer-mock
+# or
 $ nx run custom-hook-timer-mock:test
 ```
 
