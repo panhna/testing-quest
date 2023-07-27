@@ -12,7 +12,7 @@ Write test for custom hook inside this folder `/src/app/hooks/__tests__/`
 - Write test on custom hook
 - 100% code coverage
 
-3. Make you run `nx run custom-hook-timer-mock:test` and it's 100% code coverage (ALL GREEN)
+3. Make sure you run `nx run custom-hook-timer-mock:test` and it's 100% code coverage (ALL GREEN)
 
 
 #### 🕹 How to run test
