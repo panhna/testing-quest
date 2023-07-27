@@ -24,6 +24,7 @@ export function App() {
       <div
           style={{
             width: width/3,
+            minWidth: 660,
             height: 200
           }}
           className='shadow-xl bg-white rounded-lg flex justify-center items-center'
